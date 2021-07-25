@@ -10,4 +10,6 @@ you can see the output link
 https://hollywood-movie-suggestions.herokuapp.com/
 ![image](https://user-images.githubusercontent.com/66308480/126895716-7ef96d06-598d-48f6-8d41-4d1ce604a8fc.png)
 this is how it recommends if we enter The avengers
+
+
 ![image](https://user-images.githubusercontent.com/66308480/126895748-65edfa46-e2bc-4034-8f0a-272bf5e2e86a.png)
